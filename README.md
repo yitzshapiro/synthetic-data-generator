@@ -2,7 +2,7 @@
 
 Welcome to my Synthetic Data Generators Project! This project utilizes GPT-4-Turbo to generate synthetic data from textual content extracted from PDF, TXT, and MD files. This project comprises two main scripts: `dpo.py` and `qa.py`, each tailored to generate specific types of data outputs.
 
-![photo of cute robot generating data](https://ibb.co/XxNT23B)
+![photo of cute robot generating data](https://i.ibb.co/GQBjxtw/DALL-E-2024-04-15-14-01-18-A-cute-and-whimsical-image-of-a-small-robot-looking-surprised-as-it-gener.webp)
 
 ## Overview
 
