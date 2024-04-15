@@ -51,13 +51,13 @@ python qa.py --data_directory <path_to_data_directory> --output_path <path_to_ou
 
 ### Arguments:
 
---data_directory: The directory containing your source text files.
---output_path: The directory where the output will be saved. (Optional: defaults to current directory)
---filetype: The output file format (csv, json, jsonl).
---force: Force reprocessing of all files, ignoring the processed files list.
+--data_directory: The directory containing your source text files.  
+--output_path: The directory where the output will be saved. (Optional: defaults to current directory)  
+--filetype: The output file format (csv, json, jsonl).  
+--force: Force reprocessing of all files, ignoring the processed files list.  
 
 ### Contributing
-I'm seeking community contributions!
+I'm always looking for community contributions!
 
 Feedback: Share your feedback and suggestions to enhance the tool.
 Code Contributions: Submit pull requests with bug fixes or new features.
