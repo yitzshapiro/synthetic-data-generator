@@ -48,7 +48,7 @@ python dpo.py --data_directory <path_to_data_directory> --output_path <path_to_o
 ```bash
 python qa.py --data_directory <path_to_data_directory> --output_path <path_to_output> --filetype csv
 ```
-
+Beware of the costs here, depending on how many docs are in the data directory and how large your set chunk size is, this may cost a bit.
 ### Arguments:
 
 --data_directory: The directory containing your source text files.  
